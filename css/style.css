@@ -307,7 +307,7 @@ footer {
 /********** Layout **********/
 
 .col-1 {
-	float: left;
+	float: right;
 	width: 32%;
 	margin-bottom: 2%;
 }
