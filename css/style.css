@@ -317,7 +317,9 @@ footer {
 }
 
 .col-3 {
-	
+
 }
 
-[class*="col-"]
+[class*="col-"] {
+	margin: 2%;
+}
