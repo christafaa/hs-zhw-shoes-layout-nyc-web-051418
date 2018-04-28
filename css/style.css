@@ -323,3 +323,7 @@ footer {
 [class*="col-"] {
 	margin: 2%;
 }
+
+.first {
+	margin-left: 0%;
+}
