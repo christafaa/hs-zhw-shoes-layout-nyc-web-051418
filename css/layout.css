@@ -35,6 +35,7 @@
 }
 
 .col-3 {
+  display: table
 }
 
 [class*="col-"] {
